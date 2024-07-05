@@ -33,7 +33,7 @@ async function sendMessage() {
             // The request headers
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': `Bearer YOUR_GEMINI_API_KEY` // Replace with your actual API key
+                'Authorization': `Bearer AIzaSyBYww97oVlFZ5ucWgzerDnzt4Q52pVJIkM` // Replace with your actual API key
             }
         });
 
